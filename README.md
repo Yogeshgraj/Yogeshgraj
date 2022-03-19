@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yogeshgraj
+- 👋 Hi, I’m @Yogeshraj
 - 👀 I’m interested in creating ideas. 
 - 🌱 I’m currently learning JavaScript. 
 - 💞️ I’m looking to collaborate on 
